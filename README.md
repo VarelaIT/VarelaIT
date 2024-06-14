@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VarelaIT
-- 👀 I’m interested in Javascript, Typescript, Postgres, Docker, MongoDB, Vim...
-- 🌱 I’m currently learning Java and C-sharp.
+- 👀 I’m interested in Java, Javascript, Typescript, Postgres, Docker, MongoDB, Vim...
+- 🌱 I’m currently learning .Net and C-sharp.
 - 💞️ I’m looking to collaborate on Anything.
 - 📫 How to reach me @VarelaIT
 
